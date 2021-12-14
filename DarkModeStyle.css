@@ -1,0 +1,18 @@
+.change-theme {
+  font-size: 1.25rem;
+  cursor: pointer;
+}
+
+.dark-theme {
+  background-color: #0e0e0e !important;
+  color: #e6e6e6 !important;
+}
+.dark-theme-card {
+  background-color: #0e0e0e !important;
+  border: 1px solid purple !important;
+  color: #e6e6e6 !important;
+}
+
+.site-menu > li > a {
+  color: #9200ff !important;
+}
